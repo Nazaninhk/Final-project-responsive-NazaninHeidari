@@ -142,3 +142,24 @@ h2{
   image-orientation: flip;
   
 }
+
+.work-heading{
+  font-size: 50px;
+}
+
+.work-text{
+  font-family: var(--default-font-family);
+  
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+ 
+  
+}
+
+.work-section p{
+  font-size: 14px;
+  font-family: var(--default-font-family);
+  color: #6c757d;
+
+}
