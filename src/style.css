@@ -251,3 +251,26 @@ nav ul{
  footer .contact-box p{
   margin:0;
  }
+
+ form{
+  
+  font-family: var(--heading-font-family);
+  
+  line-height: 1.5;
+  font-weight: 200;
+  color: #212529;
+  
+    
+ }
+
+ .contact-part{
+  
+  color: black;
+  font-family: var(--default-font-family);
+  font-weight: bold;
+  font-size: 24px;
+  padding-top: 5px;
+  line-height: 0.5;
+  
+ }
+
